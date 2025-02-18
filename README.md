@@ -4,7 +4,9 @@ Frameworks/Skills
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,mongodb,appwrite,vscode,npm)](https://skillicons.dev)
 
 
-You can find me on :
+
+
+
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="256" height="256" rx="60" fill="white"/>
 <rect width="256" height="256" rx="60" fill="#1D9BF0"/>
