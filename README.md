@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cameron Crawley The Softwatre Enginner for you !</h1>
+<h1 align="center">Hi 👋, I'm Cameron Crawley The Software Engineer for you !</h1>
 <h3 align="center">Full-Stack Engineer from New York Helping The Disadvantaged</h3>
 
 <h3 align="left">Connect with me:</h3>
