@@ -6,3 +6,5 @@ Frameworks/Skills
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin,twitter)](https://skillicons.dev)
 
+
+[1.1]: http://i.imgur.com/tXSoThF.png 
