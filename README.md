@@ -1,7 +1,7 @@
 ## Hi there Im Cameron Crawley and im the Software Engineer for you !👋😄
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,appwrite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,mongodb,appwrite,vscode,npm)](https://skillicons.dev)
 
 
 Here are some ideas to get you started:
