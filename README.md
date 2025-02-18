@@ -4,6 +4,5 @@ Frameworks/Skills
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,mongodb,appwrite,vscode,npm)](https://skillicons.dev)
 
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin,twitter)](https://skillicons.dev)
 
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin](https://skillicons.dev)
